@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[(_vm.post != null)?_c('div',{staticStyle:{"font-family":"'Ubuntu'"}},[_c('div',{staticClass:"poster_wrapper"},[_c('img',{attrs:{"src":_vm.API + 'post/image/' + _vm.post.id,"width":"709px","alt":_vm.post.title}})]),_c('div',{staticClass:"post_content",domProps:{"innerHTML":_vm._s(_vm.post.fullText)}})]):_vm._e()])}
+var staticRenderFns = []
+
+export { render, staticRenderFns }
