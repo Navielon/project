@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('div',{staticClass:"bg"}),_c('div',{staticClass:"text"},[_vm._v("\n        НАЧАТЬ ИГРАТЬ\n    ")]),_c('router-link',{staticClass:"btn btn-reg",attrs:{"to":"/register"}},[_vm._v("СОЗДАТЬ АККАУНТ")]),_c('router-link',{staticClass:"btn btn-launcher",attrs:{"to":"/launcher"}},[_vm._v("CКАЧАТЬ ЛАУНЧЕР")]),_c('router-link',{staticClass:"btn btn-servers",attrs:{"to":"/servers"}},[_vm._v("СПИСОК СЕРВЕРОВ")])],1)}
+var staticRenderFns = []
+
+export { render, staticRenderFns }
