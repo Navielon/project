@@ -1,0 +1,988 @@
+fetch("https://loliland.ru/", {
+   "headers": {
+     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+     "accept-language": "ru,en;q=0.9",
+     "cache-control": "max-age=0",
+     "if-modified-since": "Mon, 16 May 2022 04:20:26 GMT",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "document",
+     "sec-fetch-mode": "navigate",
+     "sec-fetch-site": "none",
+     "sec-fetch-user": "?1",
+     "upgrade-insecure-requests": "1"
+   },
+   "referrerPolicy": "strict-origin-when-cross-origin",
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/scripts/skin3d.js", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/scripts/skin3d_profile.js", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/scripts/openapi.js", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/scripts/reconnecting-websocket.js", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/css/app.c5744f36.css", {
+   "referrerPolicy": "strict-origin-when-cross-origin",
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/css/chunk-vendors.7036dcaf.css", {
+   "referrerPolicy": "strict-origin-when-cross-origin",
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/js/app.f0a2a634.js", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/js/chunk-vendors.eb9e4816.js", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://fonts.googleapis.com/css?family=Ubuntu&display=swap", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://fonts.googleapis.com/css?family=Fredoka+One&display=swap", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKew72j00.woff2", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://fonts.googleapis.com/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72.woff2", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://fonts.googleapis.com/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://fonts.gstatic.com/s/fredokaone/v13/k3kUo8kEI-tA1RRcTZGmTlHGCac.woff2", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://fonts.googleapis.com/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/fonts/neosansbold.ttf", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/fonts/PTSansNarrow-Bold.ttf", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://www.google.com/recaptcha/api.js?render=6LfvJbwUAAAAAOU7JtORR4YJGvqHJpacrSZ6H9hU", {
+   "referrerPolicy": "strict-origin-when-cross-origin",
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("wss://api.loliland.ru/ws", {
+   "headers": {
+     "accept-language": "ru,en;q=0.9",
+     "cache-control": "no-cache",
+     "pragma": "no-cache",
+     "sec-websocket-extensions": "permessage-deflate; client_max_window_bits",
+     "sec-websocket-key": "f71w6m2P5LjrgF8SsmmGcQ==",
+     "sec-websocket-version": "13"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/cake.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/body.jpg", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/header.jpg", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/footer.jpg", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/menu.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/icons/effect.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/icons/home.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/icons/servers.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/sub-nav.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/icons/donate.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/icons/rules.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/icons/project.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/icons/help.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/start.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/start_anime.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/slides/1.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/slides/2.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/slides/3.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/slides/4.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/header_page.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/block_header.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/block_body.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/block_mini.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/block_bottom.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/votes.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post.list?offset=0", {
+   "headers": {
+     "accept": "application/json, text/plain, */*",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "empty",
+     "sec-fetch-mode": "cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://cdn.freekassa.ru/banners/small-white-2.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://www.gstatic.com/recaptcha/releases/CHIHFAf1bjFPOjwwi5Xa4cWR/recaptcha__ru.js", {
+   "referrerPolicy": "strict-origin-when-cross-origin",
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfvJbwUAAAAAOU7JtORR4YJGvqHJpacrSZ6H9hU&co=aHR0cHM6Ly9sb2xpbGFuZC5ydTo0NDM.&hl=ru&v=CHIHFAf1bjFPOjwwi5Xa4cWR&size=invisible&cb=6jmgoa5hv18k", {
+   "headers": {
+     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "iframe",
+     "sec-fetch-mode": "navigate",
+     "sec-fetch-site": "cross-site",
+     "upgrade-insecure-requests": "1",
+     "cookie": "__Secure-3PSID=Lgj2D5uifFjiGovWLRYKE9KUs8Bj2TCpqOReP1d6DZT8ZkqhEQCRDu-Q0INP_CawEOqBIQ.; __Secure-3PAPISID=G6CElZlu6tIrZx5m/AYdTQTggDqn6Az_Uw; 1P_JAR=2022-07-26-19; NID=511=IJCUSkr-fdjGPIHteNDOA8r4kNMejCtYjszwS1egwWichGY83SPNfYeFj-svy2J88UnfpfLn6lSYJ1TDgHK88R1KsNYXf-U9gMFO_27ITWd_U8QSF4qmkgMVln19lxMLkgV3LYIasCw4K5OH0wZ_rFOs2fH3jXlIUh1DaV2bu-cBZxau6SVj-D2eeBiD5sDZfNF6IgHj7DkjG3or6XGkh-UGHU92b9mzBbp2wognGQ5YIJfaCY_cRzSPvDvGuESDd5LZUrtqHK-rw1KmtEDZPL-j3F_CPfcCrwyVUxakq7bYmjhoAbWd3bRE4mjgB5-_UiUCh6QR5Zl24aXEond8JQUBKlG_d88DucE4g6n_amdI9E6jQQ; __Secure-3PSIDCC=AJi4QfFXHQGHRtJ5gjDDFHwXoH9s17ILICvplDJ102Mpybvx-Emou0P_fGYnuNM80sQuoEmxxPxZ",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/25", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/24", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/23", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/22", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/21", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/20", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/19", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/18", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/16", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://api.loliland.ru/post/image/15", {
+   "headers": {
+     "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+     "accept-language": "ru,en;q=0.9",
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "sec-fetch-dest": "image",
+     "sec-fetch-mode": "no-cors",
+     "sec-fetch-site": "same-site",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/post_footer.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/post_detail.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://www.gstatic.com/recaptcha/releases/CHIHFAf1bjFPOjwwi5Xa4cWR/styles__ltr.css", {
+   "referrerPolicy": "strict-origin-when-cross-origin",
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://www.gstatic.com/recaptcha/releases/CHIHFAf1bjFPOjwwi5Xa4cWR/recaptcha__ru.js", {
+   "referrerPolicy": "strict-origin-when-cross-origin",
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://www.google.com/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://www.google.com/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://www.google.com/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://www.gstatic.com/recaptcha/api2/logo_48.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://www.gstatic.com/recaptcha/releases/CHIHFAf1bjFPOjwwi5Xa4cWR/styles__ltr.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/hitech.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/ultra_tech.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/fusion_tech.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/magic_rpg.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/ars_magic_rpg.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/dark_magic.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/mystery_magic.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/techno_magic.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/techno_wizardry.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/nano_magic.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/fantasy_tech_rpg.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/spacex.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/techno_magic_sky.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/fantasy_tech_sky.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/servers/pixel_mon.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/monitoring/servers.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/monitoring/online.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/monitoring/progress_bg.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/monitoring/progress.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/assets/img/statistic_online.png", {
+   "headers": {
+     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Yandex\";v=\"22\"",
+     "sec-ch-ua-mobile": "?0",
+     "sec-ch-ua-platform": "\"Windows\"",
+     "Referer": "https://loliland.ru/css/app.c5744f36.css",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://www.google.com/recaptcha/api2/webworker.js?hl=ru&v=CHIHFAf1bjFPOjwwi5Xa4cWR", {
+   "referrerPolicy": "strict-origin-when-cross-origin",
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://www.gstatic.com/recaptcha/releases/CHIHFAf1bjFPOjwwi5Xa4cWR/recaptcha__ru.js", {
+   "headers": {
+     "Referer": "https://www.google.com/",
+     "Referrer-Policy": "strict-origin-when-cross-origin"
+   },
+   "body": null,
+   "method": "GET"
+ }); ;
+ fetch("https://loliland.ru/favicon.ico", {
+   "referrerPolicy": "strict-origin-when-cross-origin",
+   "body": null,
+   "method": "GET"
+ });
